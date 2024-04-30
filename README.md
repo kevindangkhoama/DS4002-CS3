@@ -8,16 +8,15 @@ In the "Materials" folder you will find useful resources that will guide you tow
 Below are the citations for the references used in the "Materials" folder:
 
 “Food.com Recipes and Interactions,” www.kaggle.com. https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
-(accessed Jan. 30, 2024).
-
-“Recommender Systems Datasets,” cseweb.ucsd.edu. https://cseweb.ucsd.edu/~jmcauley/datasets.html#foodcom
-(accessed Jan. 30, 2024).
+(accessed Apr. 29, 2024).
 
 “Welcome to Vadersentiment’s documentation!,” Welcome to VaderSentiment’s
 documentation! - VaderSentiment 3.3.1 documentation,
-https://vadersentiment.readthedocs.io/en/latest/ (accessed Jan. 30, 2024).
+https://vadersentiment.readthedocs.io/en/latest/ (accessed Apr. 29, 2024).
 
 Pandas, “pandas documentation — pandas 2.2.1 documentation,” pandas.pydata.org. https://pandas.pydata.org/docs/
-“NumPy documentation — NumPy v1.26 Manual,” numpy.org. https://numpy.org/doc/1.26/
+“NumPy documentation — NumPy v1.26 Manual,” numpy.org. https://numpy.org/doc/1.26/ (accessed Apr. 29, 2024)
 
-Plotly, “Plotly Python Graphing Library,” plotly.com, 2023. https://plotly.com/python/
+Plotly, “Plotly Python Graphing Library,” plotly.com, 2023. https://plotly.com/python/ (accessed Apr. 29, 2024)
+
+Susie. “Just How Long Should a Recipe Be?” | Eat Your Books, 25 June 2013, www.eatyourbooks.com/blog/2013/06/25/just-how-long-should-a-recipe-be. (accessed Apr. 29, 2024)
