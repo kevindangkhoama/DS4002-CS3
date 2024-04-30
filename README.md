@@ -4,6 +4,7 @@ This repository contains the case study, deliverable, data, and materials requir
 In the "Materials" folder you will find useful resources that will guide you towards completing this case study including information on libraries, access to datasets, and context to the topic of the case study. These resources will come in handy in determing whether there is a relationship between recipe length and it's ratings. 
 
 
+## References
 Below are the citations for the references used in the "Materials" folder:
 
 “Food.com Recipes and Interactions,” www.kaggle.com. https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
